@@ -1,0 +1,129 @@
+Simulation starts for 30 seconds.
+Truck number 1 approaches the bridge from the South. Queue spot: 1
+Truck number 2 approaches the bridge from the South. Queue spot: 2
+Car number 1 approaches the bridge from the North. Queue spot: 1
+Car number 2 approaches the bridge from the South. Queue spot: 3
+Car number 3 approaches the bridge from the South. Queue spot: 4
+Car number 4 approaches the bridge from the South. Queue spot: 5
+Truck number 3 approaches the bridge from the South. Queue spot: 6
+Truck number 1 is crossing the bridge
+Truck number 1 has crossed the bridge
+Car number 5 approaches the bridge from the North. Queue spot: 2
+Truck number 4 approaches the bridge from the South. Queue spot: 6
+Truck number 5 approaches the bridge from the South. Queue spot: 7
+Truck number 6 approaches the bridge from the South. Queue spot: 8
+Truck number 7 approaches the bridge from the South. Queue spot: 9
+Truck number 8 approaches the bridge from the North. Queue spot: 3
+Truck number 9 approaches the bridge from the South. Queue spot: 10
+Car number 6 has turned around in fustration.
+Truck number 2 is crossing the bridge
+Truck number 2 has crossed the bridge
+Car number 7 approaches the bridge from the North. Queue spot: 4
+Truck number 10 approaches the bridge from the South. Queue spot: 10
+Truck number 11 approaches the bridge from the South. Queue spot: 10
+Car number 8 approaches the bridge from the North. Queue spot: 5
+Car number 1 is crossing the bridge
+Car number 1 has crossed the bridge
+Emergency Vehicle number 1 approaches the bridge from the Emergency Lane. Queue spot: 1
+Car number 2 is crossing the bridge
+Car number 2 has crossed the bridge
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Waiting for emergency vehicle
+Truck number 13 has turned around in fustration.
+Car number 12 has turned around in fustration.
+Emergency Vehicle number 1 is crossing the bridge
+Emergency Vehicle number 1 has crossed the bridge
+Emergency Vehicle number 2 approaches the bridge from the Emergency Lane. Queue spot: 1
+Car number 13 has turned around in fustration.
+Truck number 16 has turned around in fustration.
+Truck number 18 has turned around in fustration.
+Truck number 11 is crossing the bridge
+Truck number 11 has crossed the bridge
+Emergency Vehicle number 2 is crossing the bridge
+Emergency Vehicle number 2 has crossed the bridge
+Car number 15 approaches the bridge from the North. Queue spot: 5
+Car number 14 approaches the bridge from the North. Queue spot: 5
+Car number 11 approaches the bridge from the North. Queue spot: 5
+Car number 10 approaches the bridge from the North. Queue spot: 5
+Truck number 14 approaches the bridge from the North. Queue spot: 5
+Car number 9 approaches the bridge from the North. Queue spot: 5
+Car number 16 approaches the bridge from the North. Queue spot: 5
+Truck number 17 approaches the bridge from the North. Queue spot: 5
+Truck number 12 approaches the bridge from the North. Queue spot: 5
+Truck number 15 approaches the bridge from the North. Queue spot: 5
+Truck number 19 has turned around in fustration.
+Truck number 20 has turned around in fustration.
+Truck number 21 has turned around in fustration.
+Car number 17 approaches the bridge from the South. Queue spot: 10
+Car number 18 has turned around in fustration.
+Car number 15 is crossing the bridge
+Car number 15 has crossed the bridge
+Car number 19 has turned around in fustration.
+Car number 20 has turned around in fustration.
+Truck number 22 has turned around in fustration.
+Car number 21 has turned around in fustration.
+Truck number 23 has turned around in fustration.
+Truck number 24 has turned around in fustration.
+Car number 22 has turned around in fustration.
+Car number 14 is crossing the bridge
+Car number 14 has crossed the bridge
+Car number 23 has turned around in fustration.
+Car number 24 has turned around in fustration.
+Car number 25 has turned around in fustration.
+Car number 11 is crossing the bridge
+Car number 11 has crossed the bridge
+Truck number 25 has turned around in fustration.
+Truck number 12 is crossing the bridge
+Truck number 12 has crossed the bridge
+Truck number 15 is crossing the bridge
+Truck number 15 has crossed the bridge
+Car number 10 is crossing the bridge
+Car number 10 has crossed the bridge
+Truck number 14 is crossing the bridge
+Truck number 14 has crossed the bridge
+Car number 9 is crossing the bridge
+Car number 9 has crossed the bridge
+Truck number 9 is crossing the bridge
+Truck number 9 has crossed the bridge
+Truck number 8 is crossing the bridge
+Truck number 8 has crossed the bridge
+Car number 7 is crossing the bridge
+Car number 7 has crossed the bridge
+Truck number 5 is crossing the bridge
+Truck number 5 has crossed the bridge
+Car number 3 is crossing the bridge
+Car number 3 has crossed the bridge
+Car number 4 is crossing the bridge
+Car number 4 has crossed the bridge
+Truck number 7 is crossing the bridge
+Truck number 7 has crossed the bridge
+Car number 8 is crossing the bridge
+Car number 8 has crossed the bridge
+Truck number 4 is crossing the bridge
+Truck number 4 has crossed the bridge
+Car number 5 is crossing the bridge
+Car number 5 has crossed the bridge
+Truck number 10 is crossing the bridge
+Truck number 10 has crossed the bridge
+Truck number 6 is crossing the bridge
+Truck number 6 has crossed the bridge
+Truck number 3 is crossing the bridge
+Truck number 3 has crossed the bridge
+Car number 17 is crossing the bridge
+Car number 17 has crossed the bridge
+Car number 16 is crossing the bridge
+Car number 16 has crossed the bridge
+Truck number 17 is crossing the bridge
+Truck number 17 has crossed the bridge
+SUMMARY: Vehicles: 52, Cars: 25, Trucks: 25, Emergency Vehicles: 2, Vehicles Crossed: 31
