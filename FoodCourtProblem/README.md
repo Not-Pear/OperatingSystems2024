@@ -1,0 +1,3 @@
+This project attempted to solve the foodcourt problem. There is a foodcourt with a limited capacity. Inside there are three options; Burgers, Pizza, and Wings. Each option had its own queue. 
+The customer at the front of the queue would spend a random amount of time deciding what they would want to purchase, then move to order. From there, they would move to a second queue for the cashiers
+which had its own queue. From there, the customer would pay, eat their food, then leave. This project's purpose was to practice the use of threads in a large quantity, queues, semaphors, and multiplexers (MUXs)
