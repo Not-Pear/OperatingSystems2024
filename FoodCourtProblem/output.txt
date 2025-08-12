@@ -1,0 +1,1511 @@
+Customer Limit is: 250
+Simulation starts for 200 seconds.
+Customer 1 has entered the food court
+Customer 1 has entered the Waiting Area. Waiting Area Count:1
+Customer 1 has entered the Wings Line. Wings Queue Count: 1
+Customer 1 has entered the Pizza Counter
+Customer 4 has entered the food court
+Customer 4 has entered the Waiting Area. Waiting Area Count:2
+Customer 4 has entered the Pizza Line. Pizza Queue Count: 1
+Customer 4 has entered the Pizza Counter
+Customer 1 has moved to the cashier from the Wings Line
+Customer 0 has entered the food court
+Customer 0 has entered the Waiting Area. Waiting Area Count:2
+Customer 0 has entered the Pizza Line. Pizza Queue Count: 1
+Customer 3 has entered the food court
+Customer 3 has entered the Waiting Area. Waiting Area Count:3
+Customer 1 has moved to paid, eaten their meal, then left
+Customer 2 has entered the food court
+Customer 2 has entered the Waiting Area. Waiting Area Count:4
+Customer 6 has entered the food court
+Customer 6 has entered the Waiting Area. Waiting Area Count:5
+Customer 10 has entered the food court
+Customer 10 has entered the Waiting Area. Waiting Area Count:6
+Customer 7 has entered the food court
+Customer 7 has entered the Waiting Area. Waiting Area Count:7
+Customer 10 has entered the Wings Line. Wings Queue Count: 1
+Customer 10 has entered the Pizza Counter
+Customer 3 has entered the Burgers Line. Burger Queue Count: 1
+Customer 3 has entered the Burgers Counter
+Customer 0 has entered the Pizza Counter
+Customer 4 has moved to the cashier from the Pizza Line
+Customer 5 has entered the food court
+Customer 5 has entered the Waiting Area. Waiting Area Count:7
+Customer 4 has moved to paid, eaten their meal, then left
+Customer 5 has entered the Burgers Line. Burger Queue Count: 1
+Customer 2 has entered the Wings Line. Wings Queue Count: 1
+Customer 0 has moved to the cashier from the Pizza Line
+Customer 9 has entered the food court
+Customer 9 has entered the Waiting Area. Waiting Area Count:7
+Customer 8 has entered the food court
+Customer 8 has entered the Waiting Area. Waiting Area Count:8
+Customer 11 has entered the food court
+Customer 11 has entered the Waiting Area. Waiting Area Count:9
+Customer 9 has entered the Burgers Line. Burger Queue Count: 2
+Customer 8 has entered the Pizza Line. Pizza Queue Count: 1
+Customer 8 has entered the Pizza Counter
+Customer 10 has moved to the cashier from the Wings Line
+Customer 2 has entered the Pizza Counter
+Customer 6 has entered the Pizza Line. Pizza Queue Count: 1
+Customer 2 has moved to the cashier from the Wings Line
+Customer 7 has entered the Burgers Line. Burger Queue Count: 3
+Customer 5 has entered the Burgers Counter
+Customer 3 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 0 has moved to paid, eaten their meal, then left
+Customer 15 has entered the food court
+Customer 15 has entered the Waiting Area. Waiting Area Count:7
+Customer 5 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 9 has entered the Burgers Counter
+Customer 18 has entered the food court
+Customer 18 has entered the Waiting Area. Waiting Area Count:7
+Customer 14 has entered the food court
+Customer 14 has entered the Waiting Area. Waiting Area Count:8
+Customer 17 has entered the food court
+Customer 17 has entered the Waiting Area. Waiting Area Count:9
+Customer 12 has entered the food court
+Customer 12 has entered the Waiting Area. Waiting Area Count:10
+Customer 11 has entered the Wings Line. Wings Queue Count: 1
+Customer 11 has entered the Pizza Counter
+Customer 15 has entered the Burgers Line. Burger Queue Count: 2
+Customer 5 has moved to paid, eaten their meal, then left
+Customer 14 has entered the Burgers Line. Burger Queue Count: 3
+Customer 9 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 7 has entered the Burgers Counter
+Customer 8 has moved to the cashier from the Pizza Line
+Customer 6 has entered the Pizza Counter
+Customer 18 has entered the Burgers Line. Burger Queue Count: 3
+Customer 7 has moved to the cashier from the Burger Line. Cashier Count: 6
+Customer 15 has entered the Burgers Counter
+Customer 13 has entered the food court
+Customer 13 has entered the Waiting Area. Waiting Area Count:8
+Customer 12 has entered the Burgers Line. Burger Queue Count: 3
+Customer 2 has moved to paid, eaten their meal, then left
+Customer 16 has entered the food court
+Customer 16 has entered the Waiting Area. Waiting Area Count:9
+Customer 19 has entered the food court
+Customer 19 has entered the Waiting Area. Waiting Area Count:10
+Customer 11 has moved to the cashier from the Wings Line
+Customer 10 has moved to paid, eaten their meal, then left
+Customer 15 has moved to the cashier from the Burger Line. Cashier Count: 6
+Customer 14 has entered the Burgers Counter
+Customer 19 has entered the Wings Line. Wings Queue Count: 1
+Customer 19 has entered the Pizza Counter
+Customer 20 has entered the food court
+Customer 20 has entered the Waiting Area. Waiting Area Count:9
+Customer 9 has moved to paid, eaten their meal, then left
+Customer 22 has entered the food court
+Customer 22 has entered the Waiting Area. Waiting Area Count:10
+Customer 16 has entered the Burgers Line. Burger Queue Count: 3
+Customer 6 has moved to the cashier from the Pizza Line
+Customer 3 has moved to paid, eaten their meal, then left
+Customer 15 has moved to paid, eaten their meal, then left
+Customer 17 has entered the Pizza Line. Pizza Queue Count: 1
+Customer 17 has entered the Pizza Counter
+Customer 24 has entered the food court
+Customer 24 has entered the Waiting Area. Waiting Area Count:10
+Customer 11 has moved to paid, eaten their meal, then left
+Customer 6 has moved to paid, eaten their meal, then left
+Customer 13 has entered the Pizza Line. Pizza Queue Count: 1
+Customer 8 has moved to paid, eaten their meal, then left
+Customer 19 has moved to the cashier from the Wings Line
+Customer 22 has entered the Burgers Line. Burger Queue Count: 4
+Customer 21 has entered the food court
+Customer 21 has entered the Waiting Area. Waiting Area Count:10
+Customer 23 has entered the food court
+Customer 23 has entered the Waiting Area. Waiting Area Count:11
+Customer 7 has moved to paid, eaten their meal, then left
+Customer 19 has moved to paid, eaten their meal, then left
+Customer 27 has entered the food court
+Customer 27 has entered the Waiting Area. Waiting Area Count:12
+Customer 20 has entered the Wings Line. Wings Queue Count: 1
+Customer 20 has entered the Pizza Counter
+Customer 28 has entered the food court
+Customer 28 has entered the Waiting Area. Waiting Area Count:13
+Customer 27 has entered the Wings Line. Wings Queue Count: 1
+Customer 25 has entered the food court
+Customer 25 has entered the Waiting Area. Waiting Area Count:14
+Customer 29 has entered the food court
+Customer 29 has entered the Waiting Area. Waiting Area Count:15
+Customer 14 has moved to the cashier from the Burger Line. Cashier Count: 1
+Customer 18 has entered the Burgers Counter
+Customer 25 has entered the Burgers Line. Burger Queue Count: 4
+Customer 17 has moved to the cashier from the Pizza Line
+Customer 13 has entered the Pizza Counter
+Customer 29 has entered the Pizza Line. Pizza Queue Count: 1
+Customer 20 has moved to the cashier from the Wings Line
+Customer 27 has entered the Pizza Counter
+Customer 26 has entered the food court
+Customer 26 has entered the Waiting Area. Waiting Area Count:13
+Customer 32 has entered the food court
+Customer 32 has entered the Waiting Area. Waiting Area Count:14
+Customer 24 has entered the Burgers Line. Burger Queue Count: 5
+Customer 31 has entered the food court
+Customer 31 has entered the Waiting Area. Waiting Area Count:15
+Customer 28 has entered the Wings Line. Wings Queue Count: 1
+Customer 23 has entered the Wings Line. Wings Queue Count: 2
+Customer 21 has entered the Pizza Line. Pizza Queue Count: 2
+Customer 14 has moved to paid, eaten their meal, then left
+Customer 18 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 12 has entered the Burgers Counter
+Customer 18 has moved to paid, eaten their meal, then left
+Customer 30 has entered the food court
+Customer 30 has entered the Waiting Area. Waiting Area Count:15
+Customer 13 has moved to the cashier from the Pizza Line
+Customer 29 has entered the Pizza Counter
+Customer 17 has moved to paid, eaten their meal, then left
+Customer 27 has moved to the cashier from the Wings Line
+Customer 28 has entered the Pizza Counter
+Customer 34 has entered the food court
+Customer 34 has entered the Waiting Area. Waiting Area Count:14
+Customer 26 has entered the Wings Line. Wings Queue Count: 2
+Customer 12 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 16 has entered the Burgers Counter
+Customer 20 has moved to paid, eaten their meal, then left
+Customer 33 has entered the food court
+Customer 33 has entered the Waiting Area. Waiting Area Count:14
+Customer 35 has entered the food court
+Customer 35 has entered the Waiting Area. Waiting Area Count:15
+Customer 32 has entered the Wings Line. Wings Queue Count: 3
+Customer 31 has entered the Wings Line. Wings Queue Count: 4
+Customer 40 has entered the food court
+Customer 40 has entered the Waiting Area. Waiting Area Count:16
+Customer 36 has entered the food court
+Customer 36 has entered the Waiting Area. Waiting Area Count:17
+Customer 37 has entered the food court
+Customer 37 has entered the Waiting Area. Waiting Area Count:18
+Customer 12 has moved to paid, eaten their meal, then left
+Customer 41 has entered the food court
+Customer 41 has entered the Waiting Area. Waiting Area Count:19
+Customer 13 has moved to paid, eaten their meal, then left
+Customer 16 has moved to the cashier from the Burger Line. Cashier Count: 2
+Customer 22 has entered the Burgers Counter
+Customer 29 has moved to the cashier from the Pizza Line
+Customer 21 has entered the Pizza Counter
+Customer 34 has entered the Wings Line. Wings Queue Count: 5
+Customer 30 has entered the Burgers Line. Burger Queue Count: 3
+Customer 39 has entered the food court
+Customer 39 has entered the Waiting Area. Waiting Area Count:18
+Customer 40 has entered the Wings Line. Wings Queue Count: 6
+Customer 28 has moved to the cashier from the Wings Line
+Customer 23 has entered the Pizza Counter
+Customer 35 has entered the Burgers Line. Burger Queue Count: 4
+Customer 16 has moved to paid, eaten their meal, then left
+Customer 36 has entered the Pizza Line. Pizza Queue Count: 1
+Customer 27 has moved to paid, eaten their meal, then left
+Customer 38 has entered the food court
+Customer 38 has entered the Waiting Area. Waiting Area Count:18
+Customer 33 has entered the Pizza Line. Pizza Queue Count: 2
+Customer 29 has moved to paid, eaten their meal, then left
+Customer 39 has entered the Pizza Line. Pizza Queue Count: 3
+Customer 28 has moved to paid, eaten their meal, then left
+Customer 47 has entered the food court
+Customer 47 has entered the Waiting Area. Waiting Area Count:19
+Customer 25 has entered the Burgers Counter
+Customer 22 has moved to the cashier from the Burger Line. Cashier Count: 1
+Customer 42 has entered the food court
+Customer 42 has entered the Waiting Area. Waiting Area Count:19
+Customer 37 has entered the Pizza Line. Pizza Queue Count: 4
+Customer 21 has moved to the cashier from the Pizza Line
+Customer 36 has entered the Pizza Counter
+Customer 41 has entered the Pizza Line. Pizza Queue Count: 4
+Customer 48 has entered the food court
+Customer 48 has entered the Waiting Area. Waiting Area Count:19
+Customer 43 has entered the food court
+Customer 43 has entered the Waiting Area. Waiting Area Count:20
+Customer 26 has entered the Pizza Counter
+Customer 23 has moved to the cashier from the Wings Line
+Customer 43 has entered the Burgers Line. Burger Queue Count: 4
+Customer 21 has moved to paid, eaten their meal, then left
+Customer 44 has entered the food court
+Customer 44 has entered the Waiting Area. Waiting Area Count:20
+Customer 42 has entered the Pizza Line. Pizza Queue Count: 5
+Customer 51 has entered the food court
+Customer 51 has entered the Waiting Area. Waiting Area Count:21
+Customer 26 has moved to the cashier from the Wings Line
+Customer 32 has entered the Pizza Counter
+Customer 52 has entered the food court
+Customer 52 has entered the Waiting Area. Waiting Area Count:21
+Customer 22 has moved to paid, eaten their meal, then left
+Customer 38 has entered the Burgers Line. Burger Queue Count: 5
+Customer 47 has entered the Burgers Line. Burger Queue Count: 6
+Customer 45 has entered the food court
+Customer 45 has entered the Waiting Area. Waiting Area Count:22
+Customer 36 has moved to the cashier from the Pizza Line
+Customer 33 has entered the Pizza Counter
+Customer 23 has moved to paid, eaten their meal, then left
+Customer 44 has entered the Pizza Line. Pizza Queue Count: 5
+Customer 49 has entered the food court
+Customer 49 has entered the Waiting Area. Waiting Area Count:22
+Customer 48 has entered the Pizza Line. Pizza Queue Count: 6
+Customer 33 has moved to the cashier from the Pizza Line
+Customer 39 has entered the Pizza Counter
+Customer 33 has moved to paid, eaten their meal, then left
+Customer 46 has entered the food court
+Customer 46 has entered the Waiting Area. Waiting Area Count:22
+Customer 25 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 24 has entered the Burgers Counter
+Customer 36 has moved to paid, eaten their meal, then left
+Customer 45 has entered the Pizza Line. Pizza Queue Count: 6
+Customer 26 has moved to paid, eaten their meal, then left
+Customer 46 has entered the Pizza Line. Pizza Queue Count: 7
+Customer 32 has moved to the cashier from the Wings Line
+Customer 31 has entered the Pizza Counter
+Customer 53 has entered the food court
+Customer 53 has entered the Waiting Area. Waiting Area Count:21
+Customer 56 has entered the food court
+Customer 56 has entered the Waiting Area. Waiting Area Count:22
+Customer 54 has entered the food court
+Customer 54 has entered the Waiting Area. Waiting Area Count:23
+Customer 50 has entered the food court
+Customer 50 has entered the Waiting Area. Waiting Area Count:24
+Customer 49 has entered the Burgers Line. Burger Queue Count: 6
+Customer 54 has entered the Pizza Line. Pizza Queue Count: 8
+Customer 51 has entered the Pizza Line. Pizza Queue Count: 9
+Customer 52 has entered the Pizza Line. Pizza Queue Count: 10
+Customer 24 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 30 has entered the Burgers Counter
+Customer 55 has entered the food court
+Customer 55 has entered the Waiting Area. Waiting Area Count:24
+Customer 25 has moved to paid, eaten their meal, then left
+Customer 53 has entered the Wings Line. Wings Queue Count: 3
+Customer 30 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 35 has entered the Burgers Counter
+Customer 39 has moved to the cashier from the Pizza Line
+Customer 37 has entered the Pizza Counter
+Customer 37 has moved to the cashier from the Pizza Line
+Customer 41 has entered the Pizza Counter
+Customer 39 has moved to paid, eaten their meal, then left
+Customer 56 has entered the Wings Line. Wings Queue Count: 4
+Customer 55 has entered the Burgers Line. Burger Queue Count: 5
+Customer 58 has entered the food court
+Customer 58 has entered the Waiting Area. Waiting Area Count:22
+Customer 31 has moved to the cashier from the Wings Line
+Customer 34 has entered the Pizza Counter
+Customer 57 has entered the food court
+Customer 57 has entered the Waiting Area. Waiting Area Count:22
+Customer 60 has entered the food court
+Customer 60 has entered the Waiting Area. Waiting Area Count:23
+Customer 32 has moved to paid, eaten their meal, then left
+Customer 41 has moved to the cashier from the Pizza Line
+Customer 42 has entered the Pizza Counter
+Customer 60 has entered the Burgers Line. Burger Queue Count: 6
+Customer 37 has moved to paid, eaten their meal, then left
+Customer 58 has entered the Wings Line. Wings Queue Count: 4
+Customer 41 has moved to paid, eaten their meal, then left
+Customer 30 has moved to paid, eaten their meal, then left
+Customer 50 has entered the Wings Line. Wings Queue Count: 5
+Customer 63 has entered the food court
+Customer 63 has entered the Waiting Area. Waiting Area Count:23
+Customer 35 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 43 has entered the Burgers Counter
+Customer 34 has moved to the cashier from the Wings Line
+Customer 40 has entered the Pizza Counter
+Customer 62 has entered the food court
+Customer 62 has entered the Waiting Area. Waiting Area Count:22
+Customer 61 has entered the food court
+Customer 61 has entered the Waiting Area. Waiting Area Count:23
+Customer 59 has entered the food court
+Customer 59 has entered the Waiting Area. Waiting Area Count:24
+Customer 24 has moved to paid, eaten their meal, then left
+Customer 35 has moved to paid, eaten their meal, then left
+Customer 40 has moved to the cashier from the Wings Line
+Customer 53 has entered the Pizza Counter
+Customer 42 has moved to the cashier from the Pizza Line
+Customer 44 has entered the Pizza Counter
+Customer 66 has entered the food court
+Customer 66 has entered the Waiting Area. Waiting Area Count:23
+Customer 31 has moved to paid, eaten their meal, then left
+Customer 34 has moved to paid, eaten their meal, then left
+Customer 63 has entered the Burgers Line. Burger Queue Count: 6
+Customer 57 has entered the Wings Line. Wings Queue Count: 4
+Customer 64 has entered the food court
+Customer 64 has entered the Waiting Area. Waiting Area Count:24
+Customer 61 has entered the Pizza Line. Pizza Queue Count: 7
+Customer 44 has moved to the cashier from the Pizza Line
+Customer 48 has entered the Pizza Counter
+Customer 59 has entered the Burgers Line. Burger Queue Count: 7
+Customer 66 has entered the Burgers Line. Burger Queue Count: 8
+Customer 43 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 38 has entered the Burgers Counter
+Customer 53 has moved to the cashier from the Wings Line
+Customer 56 has entered the Pizza Counter
+Customer 65 has entered the food court
+Customer 65 has entered the Waiting Area. Waiting Area Count:22
+Customer 40 has moved to paid, eaten their meal, then left
+Customer 64 has entered the Pizza Line. Pizza Queue Count: 7
+Customer 56 has moved to the cashier from the Wings Line
+Customer 58 has entered the Pizza Counter
+Customer 42 has moved to paid, eaten their meal, then left
+Customer 44 has moved to paid, eaten their meal, then left
+Customer 67 has entered the food court
+Customer 67 has entered the Waiting Area. Waiting Area Count:22
+Customer 68 has entered the food court
+Customer 68 has entered the Waiting Area. Waiting Area Count:23
+Customer 62 has entered the Burgers Line. Burger Queue Count: 8
+Customer 72 has entered the food court
+Customer 72 has entered the Waiting Area. Waiting Area Count:24
+Customer 58 has moved to the cashier from the Wings Line
+Customer 50 has entered the Pizza Counter
+Customer 68 has entered the Wings Line. Wings Queue Count: 2
+Customer 71 has entered the food court
+Customer 71 has entered the Waiting Area. Waiting Area Count:24
+Customer 65 has entered the Burgers Line. Burger Queue Count: 9
+Customer 43 has moved to paid, eaten their meal, then left
+Customer 38 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 47 has entered the Burgers Counter
+Customer 71 has entered the Burgers Line. Burger Queue Count: 9
+Customer 48 has moved to the cashier from the Pizza Line
+Customer 45 has entered the Pizza Counter
+Customer 69 has entered the food court
+Customer 69 has entered the Waiting Area. Waiting Area Count:23
+Customer 74 has entered the food court
+Customer 74 has entered the Waiting Area. Waiting Area Count:24
+Customer 72 has entered the Pizza Line. Pizza Queue Count: 7
+Customer 67 has entered the Wings Line. Wings Queue Count: 3
+Customer 56 has moved to paid, eaten their meal, then left
+Customer 75 has entered the food court
+Customer 75 has entered the Waiting Area. Waiting Area Count:25
+Customer 50 has moved to the cashier from the Wings Line
+Customer 57 has entered the Pizza Counter
+Customer 70 has entered the food court
+Customer 70 has entered the Waiting Area. Waiting Area Count:25
+Customer 53 has moved to paid, eaten their meal, then left
+Customer 77 has entered the food court
+Customer 77 has entered the Waiting Area. Waiting Area Count:26
+Customer 45 has moved to the cashier from the Pizza Line
+Customer 46 has entered the Pizza Counter
+Customer 68 has entered the Pizza Counter
+Customer 57 has moved to the cashier from the Wings Line
+Customer 38 has moved to paid, eaten their meal, then left
+Customer 50 has moved to paid, eaten their meal, then left
+Customer 46 has moved to the cashier from the Pizza Line
+Customer 54 has entered the Pizza Counter
+Customer 77 has entered the Wings Line. Wings Queue Count: 2
+Customer 45 has moved to paid, eaten their meal, then left
+Customer 75 has entered the Pizza Line. Pizza Queue Count: 6
+Customer 79 has entered the food court
+Customer 79 has entered the Waiting Area. Waiting Area Count:24
+Customer 76 has entered the food court
+Customer 76 has entered the Waiting Area. Waiting Area Count:25
+Customer 58 has moved to paid, eaten their meal, then left
+Customer 47 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 49 has entered the Burgers Counter
+Customer 70 has entered the Pizza Line. Pizza Queue Count: 7
+Customer 74 has entered the Pizza Line. Pizza Queue Count: 8
+Customer 73 has entered the food court
+Customer 73 has entered the Waiting Area. Waiting Area Count:25
+Customer 48 has moved to paid, eaten their meal, then left
+Customer 57 has moved to paid, eaten their meal, then left
+Customer 54 has moved to the cashier from the Pizza Line
+Customer 51 has entered the Pizza Counter
+Customer 46 has moved to paid, eaten their meal, then left
+Customer 47 has moved to paid, eaten their meal, then left
+Customer 69 has entered the Pizza Line. Pizza Queue Count: 8
+Customer 78 has entered the food court
+Customer 78 has entered the Waiting Area. Waiting Area Count:25
+Customer 51 has moved to the cashier from the Pizza Line
+Customer 52 has entered the Pizza Counter
+Customer 80 has entered the food court
+Customer 80 has entered the Waiting Area. Waiting Area Count:25
+Customer 81 has entered the food court
+Customer 81 has entered the Waiting Area. Waiting Area Count:26
+Customer 49 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 55 has entered the Burgers Counter
+Customer 81 has entered the Pizza Line. Pizza Queue Count: 8
+Customer 68 has moved to the cashier from the Wings Line
+Customer 67 has entered the Pizza Counter
+Customer 51 has moved to paid, eaten their meal, then left
+Customer 67 has moved to the cashier from the Wings Line
+Customer 77 has entered the Pizza Counter
+Customer 73 has entered the Pizza Line. Pizza Queue Count: 9
+Customer 49 has moved to paid, eaten their meal, then left
+Customer 55 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 60 has entered the Burgers Counter
+Customer 76 has entered the Wings Line. Wings Queue Count: 1
+Customer 79 has entered the Wings Line. Wings Queue Count: 2
+Customer 82 has entered the food court
+Customer 82 has entered the Waiting Area. Waiting Area Count:23
+Customer 85 has entered the food court
+Customer 85 has entered the Waiting Area. Waiting Area Count:24
+Customer 78 has entered the Pizza Line. Pizza Queue Count: 10
+Customer 52 has moved to the cashier from the Pizza Line
+Customer 61 has entered the Pizza Counter
+Customer 60 has moved to the cashier from the Burger Line. Cashier Count: 6
+Customer 63 has entered the Burgers Counter
+Customer 84 has entered the food court
+Customer 84 has entered the Waiting Area. Waiting Area Count:23
+Customer 84 has entered the Burgers Line. Burger Queue Count: 6
+Customer 54 has moved to paid, eaten their meal, then left
+Customer 83 has entered the food court
+Customer 83 has entered the Waiting Area. Waiting Area Count:24
+Customer 80 has entered the Wings Line. Wings Queue Count: 3
+Customer 68 has moved to paid, eaten their meal, then left
+Customer 67 has moved to paid, eaten their meal, then left
+Customer 83 has entered the Wings Line. Wings Queue Count: 4
+Customer 82 has entered the Wings Line. Wings Queue Count: 5
+Customer 85 has entered the Burgers Line. Burger Queue Count: 7
+Customer 60 has moved to paid, eaten their meal, then left
+Customer 89 has entered the food court
+Customer 89 has entered the Waiting Area. Waiting Area Count:25
+Customer 63 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 59 has entered the Burgers Counter
+Customer 63 has moved to paid, eaten their meal, then left
+Customer 59 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 66 has entered the Burgers Counter
+Customer 87 has entered the food court
+Customer 87 has entered the Waiting Area. Waiting Area Count:24
+Customer 90 has entered the food court
+Customer 90 has entered the Waiting Area. Waiting Area Count:25
+Customer 61 has moved to the cashier from the Pizza Line
+Customer 64 has entered the Pizza Counter
+Customer 55 has moved to paid, eaten their meal, then left
+Customer 61 has moved to paid, eaten their meal, then left
+Customer 77 has moved to the cashier from the Wings Line
+Customer 76 has entered the Pizza Counter
+Customer 76 has moved to the cashier from the Wings Line
+Customer 79 has entered the Pizza Counter
+Customer 52 has moved to paid, eaten their meal, then left
+Customer 89 has entered the Pizza Line. Pizza Queue Count: 9
+Customer 59 has moved to paid, eaten their meal, then left
+Customer 86 has entered the food court
+Customer 86 has entered the Waiting Area. Waiting Area Count:23
+Customer 66 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 62 has entered the Burgers Counter
+Customer 80 has entered the Pizza Counter
+Customer 79 has moved to the cashier from the Wings Line
+Customer 87 has entered the Pizza Line. Pizza Queue Count: 10
+Customer 91 has entered the food court
+Customer 91 has entered the Waiting Area. Waiting Area Count:22
+Customer 91 has entered the Burgers Line. Burger Queue Count: 5
+Customer 88 has entered the food court
+Customer 88 has entered the Waiting Area. Waiting Area Count:23
+Customer 92 has entered the food court
+Customer 92 has entered the Waiting Area. Waiting Area Count:24
+Customer 94 has entered the food court
+Customer 94 has entered the Waiting Area. Waiting Area Count:25
+Customer 79 has moved to paid, eaten their meal, then left
+Customer 66 has moved to paid, eaten their meal, then left
+Customer 98 has entered the food court
+Customer 98 has entered the Waiting Area. Waiting Area Count:26
+Customer 90 has entered the Pizza Line. Pizza Queue Count: 11
+Customer 64 has moved to the cashier from the Pizza Line
+Customer 72 has entered the Pizza Counter
+Customer 77 has moved to paid, eaten their meal, then left
+Customer 76 has moved to paid, eaten their meal, then left
+Customer 72 has moved to the cashier from the Pizza Line
+Customer 75 has entered the Pizza Counter
+Customer 93 has entered the food court
+Customer 93 has entered the Waiting Area. Waiting Area Count:25
+Customer 86 has entered the Burgers Line. Burger Queue Count: 6
+Customer 94 has entered the Wings Line. Wings Queue Count: 3
+Customer 62 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 65 has entered the Burgers Counter
+Customer 62 has moved to paid, eaten their meal, then left
+Customer 80 has moved to the cashier from the Wings Line
+Customer 83 has entered the Pizza Counter
+Customer 80 has moved to paid, eaten their meal, then left
+Customer 65 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 71 has entered the Burgers Counter
+Customer 95 has entered the food court
+Customer 95 has entered the Waiting Area. Waiting Area Count:23
+Customer 65 has moved to paid, eaten their meal, then left
+Customer 75 has moved to the cashier from the Pizza Line
+Customer 70 has entered the Pizza Counter
+Customer 93 has entered the Pizza Line. Pizza Queue Count: 9
+Customer 98 has entered the Pizza Line. Pizza Queue Count: 10
+Customer 88 has entered the Pizza Line. Pizza Queue Count: 11
+Customer 70 has moved to the cashier from the Pizza Line
+Customer 74 has entered the Pizza Counter
+Customer 64 has moved to paid, eaten their meal, then left
+Customer 96 has entered the food court
+Customer 96 has entered the Waiting Area. Waiting Area Count:22
+Customer 92 has entered the Pizza Line. Pizza Queue Count: 11
+Customer 97 has entered the food court
+Customer 97 has entered the Waiting Area. Waiting Area Count:23
+Customer 100 has entered the food court
+Customer 100 has entered the Waiting Area. Waiting Area Count:24
+Customer 96 has entered the Wings Line. Wings Queue Count: 3
+Customer 95 has entered the Wings Line. Wings Queue Count: 4
+Customer 74 has moved to the cashier from the Pizza Line
+Customer 69 has entered the Pizza Counter
+Customer 99 has entered the food court
+Customer 99 has entered the Waiting Area. Waiting Area Count:24
+Customer 71 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 84 has entered the Burgers Counter
+Customer 83 has moved to the cashier from the Wings Line
+Customer 82 has entered the Pizza Counter
+Customer 75 has moved to paid, eaten their meal, then left
+Customer 101 has entered the food court
+Customer 101 has entered the Waiting Area. Waiting Area Count:23
+Customer 72 has moved to paid, eaten their meal, then left
+Customer 103 has entered the food court
+Customer 103 has entered the Waiting Area. Waiting Area Count:24
+Customer 84 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 85 has entered the Burgers Counter
+Customer 105 has entered the food court
+Customer 105 has entered the Waiting Area. Waiting Area Count:24
+Customer 74 has moved to paid, eaten their meal, then left
+Customer 71 has moved to paid, eaten their meal, then left
+Customer 100 has entered the Burgers Line. Burger Queue Count: 3
+Customer 103 has entered the Pizza Line. Pizza Queue Count: 11
+Customer 99 has entered the Pizza Line. Pizza Queue Count: 12
+Customer 91 has entered the Burgers Counter
+Customer 85 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 102 has entered the food court
+Customer 102 has entered the Waiting Area. Waiting Area Count:24
+Customer 106 has entered the food court
+Customer 91 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 106 has entered the Waiting Area. Waiting Area Count:24
+Customer 86 has entered the Burgers Counter
+Customer 70 has moved to paid, eaten their meal, then left
+Customer 91 has moved to paid, eaten their meal, then left
+Customer 97 has entered the Wings Line. Wings Queue Count: 4
+Customer 69 has moved to the cashier from the Pizza Line
+Customer 81 has entered the Pizza Counter
+Customer 101 has entered the Wings Line. Wings Queue Count: 5
+Customer 82 has moved to the cashier from the Wings Line
+Customer 94 has entered the Pizza Counter
+Customer 104 has entered the food court
+Customer 104 has entered the Waiting Area. Waiting Area Count:23
+Customer 94 has moved to the cashier from the Wings Line
+Customer 96 has entered the Pizza Counter
+Customer 84 has moved to paid, eaten their meal, then left
+Customer 94 has moved to paid, eaten their meal, then left
+Customer 85 has moved to paid, eaten their meal, then left
+Customer 109 has entered the food court
+Customer 109 has entered the Waiting Area. Waiting Area Count:23
+Customer 106 has entered the Burgers Line. Burger Queue Count: 2
+Customer 83 has moved to paid, eaten their meal, then left
+Customer 112 has entered the food court
+Customer 112 has entered the Waiting Area. Waiting Area Count:24
+Customer 107 has entered the food court
+Customer 107 has entered the Waiting Area. Waiting Area Count:25
+Customer 110 has entered the food court
+Customer 110 has entered the Waiting Area. Waiting Area Count:26
+Customer 109 has entered the Pizza Line. Pizza Queue Count: 12
+Customer 105 has entered the Wings Line. Wings Queue Count: 4
+Customer 108 has entered the food court
+Customer 108 has entered the Waiting Area. Waiting Area Count:27
+Customer 100 has entered the Burgers Counter
+Customer 86 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 81 has moved to the cashier from the Pizza Line
+Customer 73 has entered the Pizza Counter
+Customer 102 has entered the Burgers Line. Burger Queue Count: 2
+Customer 111 has entered the food court
+Customer 111 has entered the Waiting Area. Waiting Area Count:26
+Customer 113 has entered the food court
+Customer 113 has entered the Waiting Area. Waiting Area Count:27
+Customer 112 has entered the Wings Line. Wings Queue Count: 5
+Customer 82 has moved to paid, eaten their meal, then left
+Customer 107 has entered the Wings Line. Wings Queue Count: 6
+Customer 78 has entered the Pizza Counter
+Customer 114 has entered the food court
+Customer 73 has moved to the cashier from the Pizza Line
+Customer 114 has entered the Waiting Area. Waiting Area Count:27
+Customer 104 has entered the Burgers Line. Burger Queue Count: 3
+Customer 69 has moved to paid, eaten their meal, then left
+Customer 110 has entered the Pizza Line. Pizza Queue Count: 11
+Customer 96 has moved to the cashier from the Wings Line
+Customer 95 has entered the Pizza Counter
+Customer 118 has entered the food court
+Customer 118 has entered the Waiting Area. Waiting Area Count:27
+Customer 111 has entered the Burgers Line. Burger Queue Count: 4
+Customer 86 has moved to paid, eaten their meal, then left
+Customer 118 has entered the Wings Line. Wings Queue Count: 6
+Customer 108 has entered the Burgers Line. Burger Queue Count: 5
+Customer 96 has moved to paid, eaten their meal, then left
+Customer 116 has entered the food court
+Customer 116 has entered the Waiting Area. Waiting Area Count:28
+Customer 106 has entered the Burgers Counter
+Customer 100 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 81 has moved to paid, eaten their meal, then left
+Customer 78 has moved to the cashier from the Pizza Line
+Customer 89 has entered the Pizza Counter
+Customer 117 has entered the food court
+Customer 117 has entered the Waiting Area. Waiting Area Count:27
+Customer 113 has entered the Pizza Line. Pizza Queue Count: 11
+Customer 89 has moved to the cashier from the Pizza Line
+Customer 87 has entered the Pizza Counter
+Customer 115 has entered the food court
+Customer 115 has entered the Waiting Area. Waiting Area Count:27
+Customer 121 has entered the food court
+Customer 121 has entered the Waiting Area. Waiting Area Count:28
+Customer 73 has moved to paid, eaten their meal, then left
+Customer 123 has entered the food court
+Customer 123 has entered the Waiting Area. Waiting Area Count:29
+Customer 114 has entered the Wings Line. Wings Queue Count: 7
+Customer 100 has moved to paid, eaten their meal, then left
+Customer 87 has moved to the cashier from the Pizza Line
+Customer 90 has entered the Pizza Counter
+Customer 117 has entered the Pizza Line. Pizza Queue Count: 10
+Customer 120 has entered the food court
+Customer 120 has entered the Waiting Area. Waiting Area Count:29
+Customer 90 has moved to the cashier from the Pizza Line
+Customer 93 has entered the Pizza Counter
+Customer 115 has entered the Wings Line. Wings Queue Count: 8
+Customer 95 has moved to the cashier from the Wings Line
+Customer 97 has entered the Pizza Counter
+Customer 97 has moved to the cashier from the Wings Line
+Customer 101 has entered the Pizza Counter
+Customer 97 has moved to paid, eaten their meal, then left
+Customer 119 has entered the food court
+Customer 119 has entered the Waiting Area. Waiting Area Count:27
+Customer 90 has moved to paid, eaten their meal, then left
+Customer 119 has entered the Burgers Line. Burger Queue Count: 5
+Customer 125 has entered the food court
+Customer 125 has entered the Waiting Area. Waiting Area Count:28
+Customer 106 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 102 has entered the Burgers Counter
+Customer 122 has entered the food court
+Customer 122 has entered the Waiting Area. Waiting Area Count:28
+Customer 116 has entered the Pizza Line. Pizza Queue Count: 10
+Customer 98 has entered the Pizza Counter
+Customer 93 has moved to the cashier from the Pizza Line
+Customer 124 has entered the food court
+Customer 124 has entered the Waiting Area. Waiting Area Count:28
+Customer 106 has moved to paid, eaten their meal, then left
+Customer 78 has moved to paid, eaten their meal, then left
+Customer 89 has moved to paid, eaten their meal, then left
+Customer 121 has entered the Pizza Line. Pizza Queue Count: 10
+Customer 123 has entered the Wings Line. Wings Queue Count: 7
+Customer 125 has entered the Pizza Line. Pizza Queue Count: 11
+Customer 87 has moved to paid, eaten their meal, then left
+Customer 98 has moved to the cashier from the Pizza Line
+Customer 88 has entered the Pizza Counter
+Customer 93 has moved to paid, eaten their meal, then left
+Customer 101 has moved to the cashier from the Wings Line
+Customer 105 has entered the Pizza Counter
+Customer 101 has moved to paid, eaten their meal, then left
+Customer 124 has entered the Pizza Line. Pizza Queue Count: 11
+Customer 129 has entered the food court
+Customer 129 has entered the Waiting Area. Waiting Area Count:27
+Customer 127 has entered the food court
+Customer 127 has entered the Waiting Area. Waiting Area Count:28
+Customer 95 has moved to paid, eaten their meal, then left
+Customer 127 has entered the Pizza Line. Pizza Queue Count: 12
+Customer 130 has entered the food court
+Customer 130 has entered the Waiting Area. Waiting Area Count:29
+Customer 126 has entered the food court
+Customer 126 has entered the Waiting Area. Waiting Area Count:30
+Customer 120 has entered the Pizza Line. Pizza Queue Count: 13
+Customer 122 has entered the Wings Line. Wings Queue Count: 7
+Customer 128 has entered the food court
+Customer 128 has entered the Waiting Area. Waiting Area Count:31
+Customer 131 has entered the food court
+Customer 131 has entered the Waiting Area. Waiting Area Count:32
+Customer 88 has moved to the cashier from the Pizza Line
+Customer 92 has entered the Pizza Counter
+Customer 104 has entered the Burgers Counter
+Customer 102 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 126 has entered the Pizza Line. Pizza Queue Count: 13
+Customer 88 has moved to paid, eaten their meal, then left
+Customer 102 has moved to paid, eaten their meal, then left
+Customer 133 has entered the food court
+Customer 133 has entered the Waiting Area. Waiting Area Count:31
+Customer 129 has entered the Wings Line. Wings Queue Count: 8
+Customer 105 has moved to the cashier from the Wings Line
+Customer 112 has entered the Pizza Counter
+Customer 134 has entered the food court
+Customer 134 has entered the Waiting Area. Waiting Area Count:31
+Customer 104 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 111 has entered the Burgers Counter
+Customer 131 has entered the Burgers Line. Burger Queue Count: 3
+Customer 132 has entered the food court
+Customer 132 has entered the Waiting Area. Waiting Area Count:31
+Customer 98 has moved to paid, eaten their meal, then left
+Customer 112 has moved to the cashier from the Wings Line
+Customer 107 has entered the Pizza Counter
+Customer 128 has entered the Wings Line. Wings Queue Count: 7
+Customer 130 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 105 has moved to paid, eaten their meal, then left
+Customer 107 has moved to the cashier from the Wings Line
+Customer 118 has entered the Pizza Counter
+Customer 111 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 108 has entered the Burgers Counter
+Customer 92 has moved to the cashier from the Pizza Line
+Customer 103 has entered the Pizza Counter
+Customer 132 has entered the Wings Line. Wings Queue Count: 7
+Customer 133 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 139 has entered the food court
+Customer 139 has entered the Waiting Area. Waiting Area Count:28
+Customer 138 has entered the food court
+Customer 138 has entered the Waiting Area. Waiting Area Count:29
+Customer 134 has entered the Pizza Line. Pizza Queue Count: 15
+Customer 136 has entered the food court
+Customer 136 has entered the Waiting Area. Waiting Area Count:30
+Customer 135 has entered the food court
+Customer 135 has entered the Waiting Area. Waiting Area Count:31
+Customer 107 has moved to paid, eaten their meal, then left
+Customer 104 has moved to paid, eaten their meal, then left
+Customer 111 has moved to paid, eaten their meal, then left
+Customer 103 has moved to the cashier from the Pizza Line
+Customer 99 has entered the Pizza Counter
+Customer 137 has entered the food court
+Customer 137 has entered the Waiting Area. Waiting Area Count:31
+Customer 112 has moved to paid, eaten their meal, then left
+Customer 103 has moved to paid, eaten their meal, then left
+Customer 140 has entered the food court
+Customer 140 has entered the Waiting Area. Waiting Area Count:32
+Customer 99 has moved to the cashier from the Pizza Line
+Customer 109 has entered the Pizza Counter
+Customer 108 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 119 has entered the Burgers Counter
+Customer 136 has entered the Burgers Line. Burger Queue Count: 2
+Customer 119 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 131 has entered the Burgers Counter
+Customer 144 has entered the food court
+Customer 144 has entered the Waiting Area. Waiting Area Count:30
+Customer 139 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 131 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 136 has entered the Burgers Counter
+Customer 131 has moved to paid, eaten their meal, then left
+Customer 118 has moved to the cashier from the Wings Line
+Customer 114 has entered the Pizza Counter
+Customer 92 has moved to paid, eaten their meal, then left
+Customer 135 has entered the Wings Line. Wings Queue Count: 7
+Customer 142 has entered the food court
+Customer 142 has entered the Waiting Area. Waiting Area Count:29
+Customer 144 has entered the Pizza Line. Pizza Queue Count: 15
+Customer 108 has moved to paid, eaten their meal, then left
+Customer 142 has entered the Burgers Line. Burger Queue Count: 1
+Customer 146 has entered the food court
+Customer 146 has entered the Waiting Area. Waiting Area Count:30
+Customer 143 has entered the food court
+Customer 143 has entered the Waiting Area. Waiting Area Count:31
+Customer 138 has entered the Burgers Line. Burger Queue Count: 2
+Customer 109 has moved to the cashier from the Pizza Line
+Customer 110 has entered the Pizza Counter
+Customer 114 has moved to the cashier from the Wings Line
+Customer 115 has entered the Pizza Counter
+Customer 137 has entered the Burgers Line. Burger Queue Count: 3
+Customer 143 has entered the Pizza Line. Pizza Queue Count: 15
+Customer 146 has entered the Burgers Line. Burger Queue Count: 4
+Customer 142 has entered the Burgers Counter
+Customer 136 has moved to the cashier from the Burger Line. Cashier Count: 6
+Customer 138 has entered the Burgers Counter
+Customer 142 has moved to the cashier from the Burger Line. Cashier Count: 7
+Customer 141 has entered the food court
+Customer 141 has entered the Waiting Area. Waiting Area Count:28
+Customer 148 has entered the food court
+Customer 148 has entered the Waiting Area. Waiting Area Count:29
+Customer 147 has entered the food court
+Customer 147 has entered the Waiting Area. Waiting Area Count:30
+Customer 149 has entered the food court
+Customer 149 has entered the Waiting Area. Waiting Area Count:31
+Customer 145 has entered the food court
+Customer 145 has entered the Waiting Area. Waiting Area Count:32
+Customer 148 has entered the Wings Line. Wings Queue Count: 7
+Customer 149 has entered the Burgers Line. Burger Queue Count: 3
+Customer 140 has entered the Wings Line. Wings Queue Count: 8
+Customer 119 has moved to paid, eaten their meal, then left
+Customer 110 has moved to the cashier from the Pizza Line
+Customer 113 has entered the Pizza Counter
+Customer 113 has moved to the cashier from the Pizza Line
+Customer 117 has entered the Pizza Counter
+Customer 99 has moved to paid, eaten their meal, then left
+Customer 147 has entered the Burgers Line. Burger Queue Count: 4
+Customer 113 has moved to paid, eaten their meal, then left
+Customer 115 has moved to the cashier from the Wings Line
+Customer 123 has entered the Pizza Counter
+Customer 114 has moved to paid, eaten their meal, then left
+Customer 118 has moved to paid, eaten their meal, then left
+Customer 136 has moved to paid, eaten their meal, then left
+Customer 110 has moved to paid, eaten their meal, then left
+Customer 142 has moved to paid, eaten their meal, then left
+Customer 153 has entered the food court
+Customer 153 has entered the Waiting Area. Waiting Area Count:30
+Customer 109 has moved to paid, eaten their meal, then left
+Customer 138 has moved to the cashier from the Burger Line. Cashier Count: 2
+Customer 137 has entered the Burgers Counter
+Customer 117 has moved to the cashier from the Pizza Line
+Customer 116 has entered the Pizza Counter
+Customer 141 has entered the Pizza Line. Pizza Queue Count: 13
+Customer 145 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 150 has entered the food court
+Customer 150 has entered the Waiting Area. Waiting Area Count:29
+Customer 156 has entered the food court
+Customer 156 has entered the Waiting Area. Waiting Area Count:30
+Customer 123 has moved to the cashier from the Wings Line
+Customer 122 has entered the Pizza Counter
+Customer 115 has moved to paid, eaten their meal, then left
+Customer 156 has entered the Wings Line. Wings Queue Count: 7
+Customer 152 has entered the food court
+Customer 152 has entered the Waiting Area. Waiting Area Count:30
+Customer 122 has moved to the cashier from the Wings Line
+Customer 129 has entered the Pizza Counter
+Customer 157 has entered the food court
+Customer 157 has entered the Waiting Area. Waiting Area Count:30
+Customer 152 has entered the Wings Line. Wings Queue Count: 7
+Customer 151 has entered the food court
+Customer 151 has entered the Waiting Area. Waiting Area Count:31
+Customer 154 has entered the food court
+Customer 154 has entered the Waiting Area. Waiting Area Count:32
+Customer 129 has moved to the cashier from the Wings Line
+Customer 128 has entered the Pizza Counter
+Customer 155 has entered the food court
+Customer 155 has entered the Waiting Area. Waiting Area Count:32
+Customer 116 has moved to the cashier from the Pizza Line
+Customer 121 has entered the Pizza Counter
+Customer 137 has moved to the cashier from the Burger Line. Cashier Count: 7
+Customer 146 has entered the Burgers Counter
+Customer 158 has entered the food court
+Customer 158 has entered the Waiting Area. Waiting Area Count:31
+Customer 129 has moved to paid, eaten their meal, then left
+Customer 128 has moved to the cashier from the Wings Line
+Customer 132 has entered the Pizza Counter
+Customer 153 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 151 has entered the Burgers Line. Burger Queue Count: 3
+Customer 138 has moved to paid, eaten their meal, then left
+Customer 161 has entered the food court
+Customer 161 has entered the Waiting Area. Waiting Area Count:31
+Customer 117 has moved to paid, eaten their meal, then left
+Customer 150 has entered the Wings Line. Wings Queue Count: 6
+Customer 154 has entered the Wings Line. Wings Queue Count: 7
+Customer 159 has entered the food court
+Customer 159 has entered the Waiting Area. Waiting Area Count:32
+Customer 160 has entered the food court
+Customer 160 has entered the Waiting Area. Waiting Area Count:33
+Customer 123 has moved to paid, eaten their meal, then left
+Customer 160 has entered the Burgers Line. Burger Queue Count: 4
+Customer 159 has entered the Burgers Line. Burger Queue Count: 5
+Customer 121 has moved to the cashier from the Pizza Line
+Customer 125 has entered the Pizza Counter
+Customer 132 has moved to the cashier from the Wings Line
+Customer 135 has entered the Pizza Counter
+Customer 122 has moved to paid, eaten their meal, then left
+Customer 155 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 162 has entered the food court
+Customer 162 has entered the Waiting Area. Waiting Area Count:32
+Customer 116 has moved to paid, eaten their meal, then left
+Customer 128 has moved to paid, eaten their meal, then left
+Customer 121 has moved to paid, eaten their meal, then left
+Customer 161 has entered the Burgers Line. Burger Queue Count: 6
+Customer 157 has entered the Burgers Line. Burger Queue Count: 7
+Customer 146 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 149 has entered the Burgers Counter
+Customer 146 has moved to paid, eaten their meal, then left
+Customer 164 has entered the food court
+Customer 164 has entered the Waiting Area. Waiting Area Count:32
+Customer 132 has moved to paid, eaten their meal, then left
+Customer 137 has moved to paid, eaten their meal, then left
+Customer 158 has entered the Wings Line. Wings Queue Count: 7
+Customer 125 has moved to the cashier from the Pizza Line
+Customer 124 has entered the Pizza Counter
+Customer 135 has moved to the cashier from the Wings Line
+Customer 148 has entered the Pizza Counter
+Customer 164 has entered the Burgers Line. Burger Queue Count: 7
+Customer 168 has entered the food court
+Customer 168 has entered the Waiting Area. Waiting Area Count:31
+Customer 166 has entered the food court
+Customer 166 has entered the Waiting Area. Waiting Area Count:32
+Customer 162 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 168 has entered the Wings Line. Wings Queue Count: 7
+Customer 147 has entered the Burgers Counter
+Customer 149 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 135 has moved to paid, eaten their meal, then left
+Customer 125 has moved to paid, eaten their meal, then left
+Customer 149 has moved to paid, eaten their meal, then left
+Customer 124 has moved to the cashier from the Pizza Line
+Customer 127 has entered the Pizza Counter
+Customer 166 has entered the Wings Line. Wings Queue Count: 8
+Customer 169 has entered the food court
+Customer 169 has entered the Waiting Area. Waiting Area Count:31
+Customer 163 has entered the food court
+Customer 163 has entered the Waiting Area. Waiting Area Count:32
+Customer 148 has moved to the cashier from the Wings Line
+Customer 140 has entered the Pizza Counter
+Customer 165 has entered the food court
+Customer 165 has entered the Waiting Area. Waiting Area Count:32
+Customer 163 has entered the Wings Line. Wings Queue Count: 8
+Customer 147 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 151 has entered the Burgers Counter
+Customer 171 has entered the food court
+Customer 171 has entered the Waiting Area. Waiting Area Count:32
+Customer 148 has moved to paid, eaten their meal, then left
+Customer 169 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 124 has moved to paid, eaten their meal, then left
+Customer 172 has entered the food court
+Customer 172 has entered the Waiting Area. Waiting Area Count:33
+Customer 140 has moved to the cashier from the Wings Line
+Customer 156 has entered the Pizza Counter
+Customer 167 has entered the food court
+Customer 167 has entered the Waiting Area. Waiting Area Count:33
+Customer 165 has entered the Wings Line. Wings Queue Count: 8
+Customer 127 has moved to the cashier from the Pizza Line
+Customer 120 has entered the Pizza Counter
+Customer 147 has moved to paid, eaten their meal, then left
+Customer 175 has entered the food court
+Customer 175 has entered the Waiting Area. Waiting Area Count:33
+Customer 151 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 160 has entered the Burgers Counter
+Customer 173 has entered the food court
+Customer 173 has entered the Waiting Area. Waiting Area Count:33
+Customer 177 has entered the food court
+Customer 177 has entered the Waiting Area. Waiting Area Count:34
+Customer 120 has moved to the cashier from the Pizza Line
+Customer 126 has entered the Pizza Counter
+Customer 170 has entered the food court
+Customer 170 has entered the Waiting Area. Waiting Area Count:34
+Customer 171 has entered the Wings Line. Wings Queue Count: 9
+Customer 175 has entered the Pizza Line. Pizza Queue Count: 13
+Customer 173 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 172 has entered the Burgers Line. Burger Queue Count: 5
+Customer 177 has entered the Wings Line. Wings Queue Count: 10
+Customer 174 has entered the food court
+Customer 179 has entered the food court
+Customer 179 has entered the Waiting Area. Waiting Area Count:36
+Customer 174 has entered the Waiting Area. Waiting Area Count:35
+Customer 127 has moved to paid, eaten their meal, then left
+Customer 179 has entered the Pizza Line. Pizza Queue Count: 15
+Customer 140 has moved to paid, eaten their meal, then left
+Customer 160 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 159 has entered the Burgers Counter
+Customer 160 has moved to paid, eaten their meal, then left
+Customer 156 has moved to the cashier from the Wings Line
+Customer 152 has entered the Pizza Counter
+Customer 167 has entered the Wings Line. Wings Queue Count: 10
+Customer 176 has entered the food court
+Customer 176 has entered the Waiting Area. Waiting Area Count:35
+Customer 180 has entered the food court
+Customer 180 has entered the Waiting Area. Waiting Area Count:36
+Customer 181 has entered the food court
+Customer 181 has entered the Waiting Area. Waiting Area Count:37
+Customer 176 has entered the Wings Line. Wings Queue Count: 11
+Customer 181 has entered the Wings Line. Wings Queue Count: 12
+Customer 159 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 161 has entered the Burgers Counter
+Customer 152 has moved to the cashier from the Wings Line
+Customer 150 has entered the Pizza Counter
+Customer 151 has moved to paid, eaten their meal, then left
+Customer 178 has entered the food court
+Customer 178 has entered the Waiting Area. Waiting Area Count:36
+Customer 126 has moved to the cashier from the Pizza Line
+Customer 130 has entered the Pizza Counter
+Customer 120 has moved to paid, eaten their meal, then left
+Customer 126 has moved to paid, eaten their meal, then left
+Customer 170 has entered the Burgers Line. Burger Queue Count: 4
+Customer 156 has moved to paid, eaten their meal, then left
+Customer 161 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 157 has entered the Burgers Counter
+Customer 152 has moved to paid, eaten their meal, then left
+Customer 174 has entered the Burgers Line. Burger Queue Count: 4
+Customer 182 has entered the food court
+Customer 182 has entered the Waiting Area. Waiting Area Count:35
+Customer 130 has moved to the cashier from the Pizza Line
+Customer 133 has entered the Pizza Counter
+Customer 186 has entered the food court
+Customer 186 has entered the Waiting Area. Waiting Area Count:35
+Customer 133 has moved to the cashier from the Pizza Line
+Customer 134 has entered the Pizza Counter
+Customer 182 has entered the Pizza Line. Pizza Queue Count: 13
+Customer 130 has moved to paid, eaten their meal, then left
+Customer 159 has moved to paid, eaten their meal, then left
+Customer 186 has entered the Burgers Line. Burger Queue Count: 5
+Customer 188 has entered the food court
+Customer 188 has entered the Waiting Area. Waiting Area Count:35
+Customer 178 has entered the Burgers Line. Burger Queue Count: 6
+Customer 150 has moved to the cashier from the Wings Line
+Customer 154 has entered the Pizza Counter
+Customer 184 has entered the food court
+Customer 184 has entered the Waiting Area. Waiting Area Count:35
+Customer 150 has moved to paid, eaten their meal, then left
+Customer 180 has entered the Wings Line. Wings Queue Count: 11
+Customer 183 has entered the food court
+Customer 183 has entered the Waiting Area. Waiting Area Count:36
+Customer 185 has entered the food court
+Customer 185 has entered the Waiting Area. Waiting Area Count:37
+Customer 184 has entered the Burgers Line. Burger Queue Count: 7
+Customer 188 has entered the Wings Line. Wings Queue Count: 12
+Customer 161 has moved to paid, eaten their meal, then left
+Customer 133 has moved to paid, eaten their meal, then left
+Customer 157 has moved to the cashier from the Burger Line. Cashier Count: 1
+Customer 164 has entered the Burgers Counter
+Customer 191 has entered the food court
+Customer 191 has entered the Waiting Area. Waiting Area Count:37
+Customer 192 has entered the food court
+Customer 192 has entered the Waiting Area. Waiting Area Count:38
+Customer 193 has entered the food court
+Customer 193 has entered the Waiting Area. Waiting Area Count:39
+Customer 157 has moved to paid, eaten their meal, then left
+Customer 154 has moved to the cashier from the Wings Line
+Customer 158 has entered the Pizza Counter
+Customer 185 has entered the Wings Line. Wings Queue Count: 12
+Customer 154 has moved to paid, eaten their meal, then left
+Customer 134 has moved to the cashier from the Pizza Line
+Customer 139 has entered the Pizza Counter
+Customer 190 has entered the food court
+Customer 190 has entered the Waiting Area. Waiting Area Count:38
+Customer 187 has entered the food court
+Customer 187 has entered the Waiting Area. Waiting Area Count:39
+Customer 183 has entered the Pizza Line. Pizza Queue Count: 13
+Customer 189 has entered the food court
+Customer 189 has entered the Waiting Area. Waiting Area Count:40
+Customer 158 has moved to the cashier from the Wings Line
+Customer 168 has entered the Pizza Counter
+Customer 172 has entered the Burgers Counter
+Customer 164 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 195 has entered the food court
+Customer 195 has entered the Waiting Area. Waiting Area Count:39
+Customer 194 has entered the food court
+Customer 194 has entered the Waiting Area. Waiting Area Count:40
+Customer 170 has entered the Burgers Counter
+Customer 172 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 193 has entered the Pizza Line. Pizza Queue Count: 14
+Customer 168 has moved to the cashier from the Wings Line
+Customer 166 has entered the Pizza Counter
+Customer 134 has moved to paid, eaten their meal, then left
+Customer 191 has entered the Pizza Line. Pizza Queue Count: 15
+Customer 190 has entered the Wings Line. Wings Queue Count: 11
+Customer 170 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 174 has entered the Burgers Counter
+Customer 192 has entered the Burgers Line. Burger Queue Count: 4
+Customer 199 has entered the food court
+Customer 199 has entered the Waiting Area. Waiting Area Count:38
+Customer 197 has entered the food court
+Customer 197 has entered the Waiting Area. Waiting Area Count:39
+Customer 158 has moved to paid, eaten their meal, then left
+Customer 139 has moved to the cashier from the Pizza Line
+Customer 144 has entered the Pizza Counter
+Customer 168 has moved to paid, eaten their meal, then left
+Customer 187 has entered the Pizza Line. Pizza Queue Count: 15
+Customer 174 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 186 has entered the Burgers Counter
+Customer 166 has moved to the cashier from the Wings Line
+Customer 163 has entered the Pizza Counter
+Customer 197 has entered the Burgers Line. Burger Queue Count: 4
+Customer 174 has moved to paid, eaten their meal, then left
+Customer 189 has entered the Pizza Line. Pizza Queue Count: 16
+Customer 202 has entered the food court
+Customer 202 has entered the Waiting Area. Waiting Area Count:37
+Customer 164 has moved to paid, eaten their meal, then left
+Customer 172 has moved to paid, eaten their meal, then left
+Customer 170 has moved to paid, eaten their meal, then left
+Customer 195 has entered the Wings Line. Wings Queue Count: 11
+Customer 196 has entered the food court
+Customer 196 has entered the Waiting Area. Waiting Area Count:38
+Customer 201 has entered the food court
+Customer 201 has entered the Waiting Area. Waiting Area Count:39
+Customer 198 has entered the food court
+Customer 198 has entered the Waiting Area. Waiting Area Count:40
+Customer 194 has entered the Wings Line. Wings Queue Count: 12
+Customer 186 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 178 has entered the Burgers Counter
+Customer 139 has moved to paid, eaten their meal, then left
+Customer 200 has entered the food court
+Customer 200 has entered the Waiting Area. Waiting Area Count:40
+Customer 206 has entered the food court
+Customer 206 has entered the Waiting Area. Waiting Area Count:41
+Customer 144 has moved to the cashier from the Pizza Line
+Customer 143 has entered the Pizza Counter
+Customer 143 has moved to the cashier from the Pizza Line
+Customer 141 has entered the Pizza Counter
+Customer 199 has entered the Burgers Line. Burger Queue Count: 4
+Customer 200 has entered the Burgers Line. Burger Queue Count: 5
+Customer 204 has entered the food court
+Customer 204 has entered the Waiting Area. Waiting Area Count:40
+Customer 203 has entered the food court
+Customer 203 has entered the Waiting Area. Waiting Area Count:41
+Customer 201 has entered the Burgers Line. Burger Queue Count: 6
+Customer 163 has moved to the cashier from the Wings Line
+Customer 165 has entered the Pizza Counter
+Customer 208 has entered the food court
+Customer 208 has entered the Waiting Area. Waiting Area Count:41
+Customer 166 has moved to paid, eaten their meal, then left
+Customer 178 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 184 has entered the Burgers Counter
+Customer 207 has entered the food court
+Customer 207 has entered the Waiting Area. Waiting Area Count:41
+Customer 205 has entered the food court
+Customer 205 has entered the Waiting Area. Waiting Area Count:42
+Customer 202 has entered the Pizza Line. Pizza Queue Count: 15
+Customer 144 has moved to paid, eaten their meal, then left
+Customer 141 has moved to the cashier from the Pizza Line
+Customer 145 has entered the Pizza Counter
+Customer 198 has entered the Pizza Line. Pizza Queue Count: 15
+Customer 163 has moved to paid, eaten their meal, then left
+Customer 196 has entered the Pizza Line. Pizza Queue Count: 16
+Customer 143 has moved to paid, eaten their meal, then left
+Customer 204 has entered the Pizza Line. Pizza Queue Count: 17
+Customer 186 has moved to paid, eaten their meal, then left
+Customer 206 has entered the Wings Line. Wings Queue Count: 12
+Customer 207 has entered the Burgers Line. Burger Queue Count: 6
+Customer 165 has moved to the cashier from the Wings Line
+Customer 171 has entered the Pizza Counter
+Customer 209 has entered the food court
+Customer 209 has entered the Waiting Area. Waiting Area Count:41
+Customer 203 has entered the Pizza Line. Pizza Queue Count: 18
+Customer 178 has moved to paid, eaten their meal, then left
+Customer 208 has entered the Burgers Line. Burger Queue Count: 7
+Customer 211 has entered the food court
+Customer 211 has entered the Waiting Area. Waiting Area Count:42
+Customer 171 has moved to the cashier from the Wings Line
+Customer 177 has entered the Pizza Counter
+Customer 209 has entered the Wings Line. Wings Queue Count: 11
+Customer 212 has entered the food court
+Customer 212 has entered the Waiting Area. Waiting Area Count:42
+Customer 141 has moved to paid, eaten their meal, then left
+Customer 153 has entered the Pizza Counter
+Customer 145 has moved to the cashier from the Pizza Line
+Customer 184 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 192 has entered the Burgers Counter
+Customer 213 has entered the food court
+Customer 213 has entered the Waiting Area. Waiting Area Count:41
+Customer 205 has entered the Burgers Line. Burger Queue Count: 7
+Customer 211 has entered the Burgers Line. Burger Queue Count: 8
+Customer 210 has entered the food court
+Customer 214 has entered the food court
+Customer 214 has entered the Waiting Area. Waiting Area Count:43
+Customer 210 has entered the Waiting Area. Waiting Area Count:42
+Customer 171 has moved to paid, eaten their meal, then left
+Customer 192 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 197 has entered the Burgers Counter
+Customer 177 has moved to the cashier from the Wings Line
+Customer 167 has entered the Pizza Counter
+Customer 165 has moved to paid, eaten their meal, then left
+Customer 153 has moved to the cashier from the Pizza Line
+Customer 155 has entered the Pizza Counter
+Customer 218 has entered the food court
+Customer 218 has entered the Waiting Area. Waiting Area Count:41
+Customer 216 has entered the food court
+Customer 216 has entered the Waiting Area. Waiting Area Count:42
+Customer 219 has entered the food court
+Customer 219 has entered the Waiting Area. Waiting Area Count:43
+Customer 145 has moved to paid, eaten their meal, then left
+Customer 215 has entered the food court
+Customer 215 has entered the Waiting Area. Waiting Area Count:44
+Customer 177 has moved to paid, eaten their meal, then left
+Customer 212 has entered the Pizza Line. Pizza Queue Count: 17
+Customer 213 has entered the Wings Line. Wings Queue Count: 11
+Customer 155 has moved to the cashier from the Pizza Line
+Customer 162 has entered the Pizza Counter
+Customer 219 has entered the Pizza Line. Pizza Queue Count: 17
+Customer 217 has entered the food court
+Customer 217 has entered the Waiting Area. Waiting Area Count:44
+Customer 184 has moved to paid, eaten their meal, then left
+Customer 192 has moved to paid, eaten their meal, then left
+Customer 210 has entered the Wings Line. Wings Queue Count: 12
+Customer 197 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 199 has entered the Burgers Counter
+Customer 199 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 200 has entered the Burgers Counter
+Customer 214 has entered the Pizza Line. Pizza Queue Count: 18
+Customer 216 has entered the Pizza Line. Pizza Queue Count: 19
+Customer 153 has moved to paid, eaten their meal, then left
+Customer 199 has moved to paid, eaten their meal, then left
+Customer 162 has moved to the cashier from the Pizza Line
+Customer 169 has entered the Pizza Counter
+Customer 220 has entered the food court
+Customer 220 has entered the Waiting Area. Waiting Area Count:42
+Customer 222 has entered the food court
+Customer 222 has entered the Waiting Area. Waiting Area Count:43
+Customer 221 has entered the food court
+Customer 221 has entered the Waiting Area. Waiting Area Count:44
+Customer 222 has entered the Pizza Line. Pizza Queue Count: 19
+Customer 167 has moved to the cashier from the Wings Line
+Customer 176 has entered the Pizza Counter
+Customer 155 has moved to paid, eaten their meal, then left
+Customer 169 has moved to the cashier from the Pizza Line
+Customer 175 has entered the Pizza Counter
+Customer 215 has entered the Pizza Line. Pizza Queue Count: 19
+Customer 218 has entered the Pizza Line. Pizza Queue Count: 20
+Customer 162 has moved to paid, eaten their meal, then left
+Customer 169 has moved to paid, eaten their meal, then left
+Customer 217 has entered the Wings Line. Wings Queue Count: 12
+Customer 221 has entered the Burgers Line. Burger Queue Count: 6
+Customer 220 has entered the Burgers Line. Burger Queue Count: 7
+Customer 224 has entered the food court
+Customer 224 has entered the Waiting Area. Waiting Area Count:43
+Customer 167 has moved to paid, eaten their meal, then left
+Customer 201 has entered the Burgers Counter
+Customer 200 has moved to the cashier from the Burger Line. Cashier Count: 2
+Customer 227 has entered the food court
+Customer 227 has entered the Waiting Area. Waiting Area Count:43
+Customer 200 has moved to paid, eaten their meal, then left
+Customer 173 has entered the Pizza Counter
+Customer 175 has moved to the cashier from the Pizza Line
+Customer 197 has moved to paid, eaten their meal, then left
+Customer 201 has moved to the cashier from the Burger Line. Cashier Count: 2
+Customer 207 has entered the Burgers Counter
+Customer 223 has entered the food court
+Customer 223 has entered the Waiting Area. Waiting Area Count:42
+Customer 225 has entered the food court
+Customer 225 has entered the Waiting Area. Waiting Area Count:43
+Customer 233 has entered the food court
+Customer 233 has entered the Waiting Area. Waiting Area Count:44
+Customer 223 has entered the Burgers Line. Burger Queue Count: 6
+Customer 226 has entered the food court
+Customer 226 has entered the Waiting Area. Waiting Area Count:45
+Customer 176 has moved to the cashier from the Wings Line
+Customer 181 has entered the Pizza Counter
+Customer 175 has moved to paid, eaten their meal, then left
+Customer 181 has moved to the cashier from the Wings Line
+Customer 180 has entered the Pizza Counter
+Customer 176 has moved to paid, eaten their meal, then left
+Customer 225 has entered the Pizza Line. Pizza Queue Count: 20
+Customer 173 has moved to the cashier from the Pizza Line
+Customer 179 has entered the Pizza Counter
+Customer 226 has entered the Pizza Line. Pizza Queue Count: 20
+Customer 201 has moved to paid, eaten their meal, then left
+Customer 229 has entered the food court
+Customer 229 has entered the Waiting Area. Waiting Area Count:43
+Customer 231 has entered the food court
+Customer 231 has entered the Waiting Area. Waiting Area Count:44
+Customer 224 has entered the Pizza Line. Pizza Queue Count: 21
+Customer 228 has entered the food court
+Customer 228 has entered the Waiting Area. Waiting Area Count:45
+Customer 232 has entered the food court
+Customer 232 has entered the Waiting Area. Waiting Area Count:46
+Customer 228 has entered the Burgers Line. Burger Queue Count: 7
+Customer 227 has entered the Burgers Line. Burger Queue Count: 8
+Customer 179 has moved to the cashier from the Pizza Line
+Customer 182 has entered the Pizza Counter
+Customer 207 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 208 has entered the Burgers Counter
+Customer 180 has moved to the cashier from the Wings Line
+Customer 188 has entered the Pizza Counter
+Customer 236 has entered the food court
+Customer 236 has entered the Waiting Area. Waiting Area Count:44
+Customer 179 has moved to paid, eaten their meal, then left
+Customer 173 has moved to paid, eaten their meal, then left
+Customer 181 has moved to paid, eaten their meal, then left
+Customer 230 has entered the food court
+Customer 230 has entered the Waiting Area. Waiting Area Count:45
+Customer 236 has entered the Wings Line. Wings Queue Count: 10
+Customer 229 has entered the Burgers Line. Burger Queue Count: 8
+Customer 231 has entered the Wings Line. Wings Queue Count: 11
+Customer 233 has entered the Wings Line. Wings Queue Count: 12
+Customer 234 has entered the food court
+Customer 234 has entered the Waiting Area. Waiting Area Count:46
+Customer 235 has entered the food court
+Customer 235 has entered the Waiting Area. Waiting Area Count:47
+Customer 182 has moved to the cashier from the Pizza Line
+Customer 183 has entered the Pizza Counter
+Customer 234 has entered the Burgers Line. Burger Queue Count: 9
+Customer 230 has entered the Pizza Line. Pizza Queue Count: 20
+Customer 183 has moved to the cashier from the Pizza Line
+Customer 193 has entered the Pizza Counter
+Customer 232 has entered the Wings Line. Wings Queue Count: 13
+Customer 239 has entered the food court
+Customer 239 has entered the Waiting Area. Waiting Area Count:46
+Customer 180 has moved to paid, eaten their meal, then left
+Customer 183 has moved to paid, eaten their meal, then left
+Customer 242 has entered the food court
+Customer 242 has entered the Waiting Area. Waiting Area Count:47
+Customer 188 has moved to the cashier from the Wings Line
+Customer 185 has entered the Pizza Counter
+Customer 238 has entered the food court
+Customer 238 has entered the Waiting Area. Waiting Area Count:47
+Customer 241 has entered the food court
+Customer 241 has entered the Waiting Area. Waiting Area Count:48
+Customer 238 has entered the Wings Line. Wings Queue Count: 13
+Customer 237 has entered the food court
+Customer 237 has entered the Waiting Area. Waiting Area Count:49
+Customer 239 has entered the Pizza Line. Pizza Queue Count: 20
+Customer 207 has moved to paid, eaten their meal, then left
+Customer 208 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 205 has entered the Burgers Counter
+Customer 241 has entered the Wings Line. Wings Queue Count: 14
+Customer 193 has moved to the cashier from the Pizza Line
+Customer 191 has entered the Pizza Counter
+Customer 240 has entered the food court
+Customer 240 has entered the Waiting Area. Waiting Area Count:48
+Customer 193 has moved to paid, eaten their meal, then left
+Customer 237 has entered the Pizza Line. Pizza Queue Count: 20
+Customer 242 has entered the Wings Line. Wings Queue Count: 15
+Customer 182 has moved to paid, eaten their meal, then left
+Customer 235 has entered the Pizza Line. Pizza Queue Count: 21
+Customer 205 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 211 has entered the Burgers Counter
+Customer 211 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 221 has entered the Burgers Counter
+Customer 221 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 220 has entered the Burgers Counter
+Customer 208 has moved to paid, eaten their meal, then left
+Customer 243 has entered the food court
+Customer 243 has entered the Waiting Area. Waiting Area Count:46
+Customer 246 has entered the food court
+Customer 246 has entered the Waiting Area. Waiting Area Count:47
+Customer 188 has moved to paid, eaten their meal, then left
+Customer 240 has entered the Wings Line. Wings Queue Count: 16
+Customer 185 has moved to the cashier from the Wings Line
+Customer 190 has entered the Pizza Counter
+Customer 220 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 223 has entered the Burgers Counter
+Customer 248 has entered the food court
+Customer 248 has entered the Waiting Area. Waiting Area Count:46
+Customer 205 has moved to paid, eaten their meal, then left
+Customer 244 has entered the food court
+Customer 244 has entered the Waiting Area. Waiting Area Count:47
+Customer 211 has moved to paid, eaten their meal, then left
+Customer 191 has moved to the cashier from the Pizza Line
+Customer 187 has entered the Pizza Counter
+Customer 221 has moved to paid, eaten their meal, then left
+Customer 245 has entered the food court
+Customer 245 has entered the Waiting Area. Waiting Area Count:47
+Customer 249 has entered the food court
+Customer 249 has entered the Waiting Area. Waiting Area Count:48
+Customer 247 has entered the food court
+Customer 247 has entered the Waiting Area. Waiting Area Count:49
+Customer 248 has entered the Pizza Line. Pizza Queue Count: 21
+Customer 243 has entered the Burgers Line. Burger Queue Count: 5
+Customer 245 has entered the Burgers Line. Burger Queue Count: 6
+Customer 185 has moved to paid, eaten their meal, then left
+Customer 246 has entered the Wings Line. Wings Queue Count: 16
+Customer 190 has moved to the cashier from the Wings Line
+Customer 195 has entered the Pizza Counter
+Customer 223 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 228 has entered the Burgers Counter
+Customer 223 has moved to paid, eaten their meal, then left
+Customer 244 has entered the Pizza Line. Pizza Queue Count: 22
+Customer 191 has moved to paid, eaten their meal, then left
+Customer 195 has moved to the cashier from the Wings Line
+Customer 194 has entered the Pizza Counter
+Customer 195 has moved to paid, eaten their meal, then left
+Customer 220 has moved to paid, eaten their meal, then left
+Customer 247 has entered the Wings Line. Wings Queue Count: 15
+Customer 187 has moved to the cashier from the Pizza Line
+Customer 189 has entered the Pizza Counter
+Customer 228 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 227 has entered the Burgers Counter
+Customer 249 has entered the Pizza Line. Pizza Queue Count: 22
+Customer 194 has moved to the cashier from the Wings Line
+Customer 206 has entered the Pizza Counter
+Customer 189 has moved to the cashier from the Pizza Line
+Customer 202 has entered the Pizza Counter
+Customer 190 has moved to paid, eaten their meal, then left
+Customer 202 has moved to the cashier from the Pizza Line
+Customer 198 has entered the Pizza Counter
+Customer 206 has moved to the cashier from the Wings Line
+Customer 209 has entered the Pizza Counter
+Customer 187 has moved to paid, eaten their meal, then left
+Customer 198 has moved to the cashier from the Pizza Line
+Customer 196 has entered the Pizza Counter
+Customer 194 has moved to paid, eaten their meal, then left
+Customer 228 has moved to paid, eaten their meal, then left
+Customer 196 has moved to the cashier from the Pizza Line
+Customer 204 has entered the Pizza Counter
+Customer 206 has moved to paid, eaten their meal, then left
+Customer 227 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 229 has entered the Burgers Counter
+Customer 189 has moved to paid, eaten their meal, then left
+Customer 227 has moved to paid, eaten their meal, then left
+Customer 202 has moved to paid, eaten their meal, then left
+Customer 209 has moved to the cashier from the Wings Line
+Customer 213 has entered the Pizza Counter
+Customer 196 has moved to paid, eaten their meal, then left
+Customer 229 has moved to the cashier from the Burger Line. Cashier Count: 3
+Customer 234 has entered the Burgers Counter
+Customer 198 has moved to paid, eaten their meal, then left
+Customer 204 has moved to the cashier from the Pizza Line
+Customer 203 has entered the Pizza Counter
+Customer 234 has moved to the cashier from the Burger Line. Cashier Count: 4
+Customer 243 has entered the Burgers Counter
+Customer 209 has moved to paid, eaten their meal, then left
+Customer 213 has moved to the cashier from the Wings Line
+Customer 210 has entered the Pizza Counter
+Customer 243 has moved to the cashier from the Burger Line. Cashier Count: 5
+Customer 245 has entered the Burgers Counter
+Customer 213 has moved to paid, eaten their meal, then left
+Customer 203 has moved to the cashier from the Pizza Line
+Customer 212 has entered the Pizza Counter
+Customer 243 has moved to paid, eaten their meal, then left
+Customer 203 has moved to paid, eaten their meal, then left
+Customer 229 has moved to paid, eaten their meal, then left
+Customer 204 has moved to paid, eaten their meal, then left
+Customer 234 has moved to paid, eaten their meal, then left
+Customer 212 has moved to the cashier from the Pizza Line
+Customer 219 has entered the Pizza Counter
+Customer 245 has moved to the cashier from the Burger Line. Cashier Count: 2
+Customer 210 has moved to the cashier from the Wings Line
+Customer 217 has entered the Pizza Counter
+Customer 236 has entered the Pizza Counter
+Customer 217 has moved to the cashier from the Wings Line
+Customer 245 has moved to paid, eaten their meal, then left
+Customer 219 has moved to the cashier from the Pizza Line
+Customer 214 has entered the Pizza Counter
+Customer 214 has moved to the cashier from the Pizza Line
+Customer 216 has entered the Pizza Counter
+Customer 216 has moved to the cashier from the Pizza Line
+Customer 222 has entered the Pizza Counter
+Customer 212 has moved to paid, eaten their meal, then left
+Customer 219 has moved to paid, eaten their meal, then left
+Customer 217 has moved to paid, eaten their meal, then left
+Customer 210 has moved to paid, eaten their meal, then left
+Customer 236 has moved to the cashier from the Wings Line
+Customer 231 has entered the Pizza Counter
+Customer 231 has moved to the cashier from the Wings Line
+Customer 233 has entered the Pizza Counter
+Customer 214 has moved to paid, eaten their meal, then left
+Customer 233 has moved to the cashier from the Wings Line
+Customer 232 has entered the Pizza Counter
+Customer 222 has moved to the cashier from the Pizza Line
+Customer 215 has entered the Pizza Counter
+Customer 216 has moved to paid, eaten their meal, then left
+Customer 218 has entered the Pizza Counter
+Customer 215 has moved to the cashier from the Pizza Line
+Customer 233 has moved to paid, eaten their meal, then left
+Customer 232 has moved to the cashier from the Wings Line
+Customer 238 has entered the Pizza Counter
+Customer 231 has moved to paid, eaten their meal, then left
+Customer 215 has moved to paid, eaten their meal, then left
+Customer 222 has moved to paid, eaten their meal, then left
+Customer 236 has moved to paid, eaten their meal, then left
+Customer 241 has entered the Pizza Counter
+Customer 238 has moved to the cashier from the Wings Line
+Customer 218 has moved to the cashier from the Pizza Line
+Customer 225 has entered the Pizza Counter
+Customer 232 has moved to paid, eaten their meal, then left
+Customer 241 has moved to the cashier from the Wings Line
+Customer 242 has entered the Pizza Counter
+Customer 242 has moved to the cashier from the Wings Line
+Customer 240 has entered the Pizza Counter
+Customer 238 has moved to paid, eaten their meal, then left
+Customer 241 has moved to paid, eaten their meal, then left
+Customer 218 has moved to paid, eaten their meal, then left
+Customer 242 has moved to paid, eaten their meal, then left
+Customer 225 has moved to the cashier from the Pizza Line
+Customer 226 has entered the Pizza Counter
+Customer 240 has moved to the cashier from the Wings Line
+Customer 246 has entered the Pizza Counter
+Customer 226 has moved to the cashier from the Pizza Line
+Customer 224 has entered the Pizza Counter
+Customer 240 has moved to paid, eaten their meal, then left
+Customer 225 has moved to paid, eaten their meal, then left
+Customer 224 has moved to the cashier from the Wings Line
+Customer 247 has entered the Pizza Counter
+Customer 246 has moved to the cashier from the Wings Line
+Customer 226 has moved to paid, eaten their meal, then left
+Customer 247 has moved to the cashier from the Wings Line
+Customer 246 has moved to paid, eaten their meal, then left
+Customer 224 has moved to paid, eaten their meal, then left
+Customer 247 has moved to paid, eaten their meal, then left
+Simulation time is up. No more Customers allowed in the Waiting Area
+Food Court is closed. Shutting Down
+Could not acquire waiting counter1MUX semaphore
+Customer 239 has entered the Pizza Counter
+Could not acquire waiting counter1MUX semaphore
+Customer 244 has entered the Pizza Counter
+Could not acquire waiting counter1MUX semaphore
+Customer 235 has entered the Pizza Counter
+Could not acquire waiting counter1MUX semaphore
+Customer 237 has entered the Pizza Counter
+Could not acquire waiting counter1MUX semaphore
+Customer 249 has entered the Pizza Counter
+Could not acquire waiting counter1MUX semaphore
+Customer 230 has entered the Pizza Counter
+Could not acquire waiting counter1MUX semaphore
+Customer 248 has entered the Pizza Counter
+Customer 239 has moved to the cashier from the Pizza Line
+Customer 249 has moved to the cashier from the Pizza Line
+Customer 235 has moved to the cashier from the Pizza Line
+Customer 237 has moved to the cashier from the Pizza Line
+Customer 249 has moved to paid, eaten their meal, then left
+Customer 230 has moved to the cashier from the Pizza Line
+Customer 244 has moved to the cashier from the Pizza Line
+Customer 248 has moved to the cashier from the Pizza Line
+Customer 235 has moved to paid, eaten their meal, then left
+Customer 244 has moved to paid, eaten their meal, then left
+Customer 248 has moved to paid, eaten their meal, then left
+Customer 239 has moved to paid, eaten their meal, then left
+Customer 230 has moved to paid, eaten their meal, then left
+Customer 237 has moved to paid, eaten their meal, then left
